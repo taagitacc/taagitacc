@@ -1,5 +1,15 @@
 ## Todor Atansov
-- Interested in Data Science and Machine Learning
+
+## Interests
+- Data Science 
+- Machine Learning
+- Software Architecture
+- Encryption Algorithms
+
+## Languages
+- C++
+- Python
+- C
 
 ## Projects
 - Car price analysis project https://github.com/taagitacc/car-price-factors.git
